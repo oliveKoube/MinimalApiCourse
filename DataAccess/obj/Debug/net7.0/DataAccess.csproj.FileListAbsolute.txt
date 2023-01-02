@@ -1,0 +1,17 @@
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\Application.dll
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\Domain.dll
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\Application.pdb
+D:\Projets\MinimalApiCourse\DataAccess\bin\Debug\net7.0\Domain.pdb
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+D:\Projets\MinimalApiCourse\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
