@@ -83,3 +83,5 @@ D:\Projets\MinimalApiCourse\MinimalApi\obj\Debug\net7.0\ref\MinimalApi.dll
 D:\Projets\MinimalApiCourse\MinimalApi\bin\Debug\net7.0\MediatR.dll
 D:\Projets\MinimalApiCourse\MinimalApi\bin\Debug\net7.0\MediatR.Contracts.dll
 D:\Projets\MinimalApiCourse\MinimalApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Projets\MinimalApiCourse\MinimalApi\bin\Debug\net7.0\Carter.dll
+D:\Projets\MinimalApiCourse\MinimalApi\bin\Debug\net7.0\FluentValidation.dll

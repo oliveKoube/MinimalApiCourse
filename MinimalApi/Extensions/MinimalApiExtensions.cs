@@ -1,5 +1,6 @@
 using Application;
 using Application.Abstractions;
+using Carter;
 using DataAccess;
 using DataAccess.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -15,6 +16,7 @@ public static class MinimalApiExtensions
                   builder.Configuration.GetConnectionString("Database")));
       builder.Services.AddScoped<IPostRepository,PostRepository>();
       builder.Services.AddApplication();
+      builder.Services.AddCarter();
   }
 
   //Reflection

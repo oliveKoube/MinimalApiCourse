@@ -1,4 +1,4 @@
-using MinimalApi;
+using Carter;
 using MinimalApi.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,7 +21,8 @@ app.Use(async(ctx,next) =>
 
 app.UseHttpsRedirection();
 
-app.RegisterEndPointDefinitions();
+//app.RegisterEndPointDefinitions();
+app.MapCarter();
 
 app.Run();
 

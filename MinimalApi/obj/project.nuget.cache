@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BqNsXuPcBp90HTJU+fgbvha4BdILHAQ4WRsvy4C5GZMtfo+Y3d5bpFuNL8f+2UW5ztQ569ADkg8V+PgjOK1QTg==",
+  "dgSpecHash": "NjRQ7Udksj9/CRxq+vdfUaZZOR/TpMl1WXa2OhUjGWrzVln67IB0DkjegOIFUQ0Kx/bTgA2r0aY1pjS8y2yo4A==",
   "success": true,
   "projectFilePath": "D:\\Projets\\MinimalApiCourse\\MinimalApi\\MinimalApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\olive\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\carter\\7.0.0\\carter.7.0.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\fluentvalidation\\11.0.1\\fluentvalidation.11.0.1.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\olive\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
